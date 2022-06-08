@@ -11,7 +11,7 @@
 
 
 
-#Delete
+# Delete
 
 # Branch
 
@@ -21,6 +21,6 @@
 
 # Revert
 
-#Conflict 
+# Conflict 
 
 
